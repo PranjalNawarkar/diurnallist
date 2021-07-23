@@ -1,7 +1,3 @@
-https://diurnallist.000webhostapp.com/
-
-
-code:
 <!DOCTYPE html>
 <html>
 <head>
